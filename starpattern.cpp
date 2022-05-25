@@ -1,7 +1,14 @@
 #include<iostream>
 using namespace std;
 
-
+//
+//
+//
+//
+//
+//
+//
+Removed
 int main(){
 
        /*  Read input as specified in the question.

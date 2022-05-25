@@ -1,8 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
-
 //this code will print star pattern
 int main(){
 

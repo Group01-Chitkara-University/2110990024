@@ -2,6 +2,8 @@
 using namespace std;
 
 
+
+//this code will print star pattern
 int main(){
 
        /*  Read input as specified in the question.

@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//just a comment here for the sake of git commit
 //this code will print star pattern
 int main(){
 

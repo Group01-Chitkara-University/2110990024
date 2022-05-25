@@ -2,10 +2,7 @@
 using namespace std;
 
 //
-//
-//
-//
-//
+////
 //
 //
 Removed
